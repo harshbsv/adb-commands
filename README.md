@@ -1,7 +1,7 @@
 # adb-commands
 A list of commonly used ADB commands.
 
-adb wait-for-device          - block until device is online
+adb wait-for-device          - block until device is online\n
 adb start-server             - ensure that there is a server running
 adb kill-server              - kill the server if it is running
 adb get-state                - prints: offline | bootloader | device
